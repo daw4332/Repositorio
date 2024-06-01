@@ -3,7 +3,7 @@ package com.example.demo.carrito;
 /**
  * An example product for use in the example shopping cart.
  */
- 
+ git commits -m "creando un commits"
 public class Product {
 
 	private String title;
@@ -19,6 +19,7 @@ public class Product {
 		this.price = price;
 	}
 
+ git commits -m "esto es lo que devuelve los titulos"
 	/**
 	 * Returns the product title.
 	 * @return Title.
@@ -27,6 +28,7 @@ public class Product {
 		return title;
 	}
 
+ git commits -m "y esto lo que devuelve el precio"
 	/**
 	 * Returns the product price.
 	 * @return Price.
